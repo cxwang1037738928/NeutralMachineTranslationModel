@@ -13,4 +13,4 @@ Parameters:
 Output:
 
 
-<img width="1154" height="601" alt="image" src="https://github.com/user-attachments/assets/edf78e8d-3f27-4ff6-bf1e-61ba20536b13" />
+<img width="1173" height="611" alt="image" src="https://github.com/user-attachments/assets/0bf991e0-d602-4545-91dc-cfa6c23e76e1" />
